@@ -1,2 +1,3 @@
-# CS5400-SP2022-Game-2
-My solution for Spring 2022 CS5400 game assignment #2 at Missouri S&amp;T
+# CS5400 Game 2
+
+This was the first chess AI assignment for CS5400. In this assignment we were to develop the movement functionality and an iterative-deepening depth-limited min-max AI to play a game of chess. The framework was developed by SIG-Game at Missouri S&T. Edited files consist of [movement.py](https://github.com/dthomeczek/CS5400-SP2022-Game-2/blob/main/Joueur.py/games/chess/movement.py) which contains the movement functionality for each piece, [algorithm.py](https://github.com/dthomeczek/CS5400-SP2022-Game-2/blob/main/Joueur.py/games/chess/algorithm.py) which implements the iterative-deepening depth-limited min-max algorithm, and [ai.py](https://github.com/dthomeczek/CS5400-SP2022-Game-2/blob/main/Joueur.py/games/chess/ai.py).
